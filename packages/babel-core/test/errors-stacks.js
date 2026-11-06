@@ -66,6 +66,7 @@ describe("@babel/core errors", function () {
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
           at expectError (<CWD>/packages/babel-core/test/errors-stacks.js:_:_)
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
+          at process.processTicksAndRejections (... internal node frames ...)
           at ... internal jest frames ..."
     `);
   });
@@ -84,6 +85,7 @@ describe("@babel/core errors", function () {
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
           at expectError (<CWD>/packages/babel-core/test/errors-stacks.js:_:_)
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
+          at process.processTicksAndRejections (... internal node frames ...)
           at ... internal jest frames ..."
     `);
   });
@@ -101,6 +103,7 @@ describe("@babel/core errors", function () {
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
           at expectError (<CWD>/packages/babel-core/test/errors-stacks.js:_:_)
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
+          at process.processTicksAndRejections (... internal node frames ...)
           at ... internal jest frames ..."
     `);
   });
@@ -120,6 +123,7 @@ describe("@babel/core errors", function () {
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
           at expectError (<CWD>/packages/babel-core/test/errors-stacks.js:_:_)
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
+          at process.processTicksAndRejections (... internal node frames ...)
           at ... internal jest frames ..."
     `);
   });
@@ -136,6 +140,7 @@ describe("@babel/core errors", function () {
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
           at expectError (<CWD>/packages/babel-core/test/errors-stacks.js:_:_)
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
+          at process.processTicksAndRejections (... internal node frames ...)
           at ... internal jest frames ..."
     `);
   });
@@ -152,6 +157,7 @@ describe("@babel/core errors", function () {
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
           at expectError (<CWD>/packages/babel-core/test/errors-stacks.js:_:_)
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
+          at process.processTicksAndRejections (... internal node frames ...)
           at ... internal jest frames ..."
     `);
   });
@@ -168,6 +174,7 @@ describe("@babel/core errors", function () {
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
           at expectError (<CWD>/packages/babel-core/test/errors-stacks.js:_:_)
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
+          at process.processTicksAndRejections (... internal node frames ...)
           at ... internal jest frames ..."
     `);
   });
@@ -187,6 +194,7 @@ describe("@babel/core errors", function () {
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
           at expectError (<CWD>/packages/babel-core/test/errors-stacks.js:_:_)
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
+          at process.processTicksAndRejections (... internal node frames ...)
           at ... internal jest frames ..."
     `);
   });
@@ -203,6 +211,7 @@ describe("@babel/core errors", function () {
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
           at expectError (<CWD>/packages/babel-core/test/errors-stacks.js:_:_)
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
+          at process.processTicksAndRejections (... internal node frames ...)
           at ... internal jest frames ..."
     `);
   });
@@ -219,6 +228,7 @@ describe("@babel/core errors", function () {
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
           at expectError (<CWD>/packages/babel-core/test/errors-stacks.js:_:_)
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
+          at process.processTicksAndRejections (... internal node frames ...)
           at ... internal jest frames ..."
     `);
   });
@@ -256,6 +266,7 @@ describe("@babel/core errors", function () {
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
           at expectError (<CWD>/packages/babel-core/test/errors-stacks.js:_:_)
           at <CWD>/packages/babel-core/test/errors-stacks.js:_:_
+          at process.processTicksAndRejections (... internal node frames ...)
           at ... internal jest frames ..."
     `);
   });
